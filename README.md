@@ -2,6 +2,8 @@
 
 This is an exercise project to mimic Kijiji and Facebook Marketplace using React and ASP.NET.
 
+User must register and login to post ads.
+
 Live demo: http://45.77.167.49:3000
 
 API repo: https://github.com/lyne-jy/used-api
